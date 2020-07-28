@@ -1,0 +1,1 @@
+ccf990e108966109ee1823132bbb47b5  kafka-manager-2.0.0.2.zip
