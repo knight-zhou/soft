@@ -6,5 +6,5 @@
 
 我的博客地址： knight.blog.csdn.net
 
-微信公众号:  devops3 或者 devops技术部落
+微信公众号:  devops9 或者 devops运维技术栈
 
